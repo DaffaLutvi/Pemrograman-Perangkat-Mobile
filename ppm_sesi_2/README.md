@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Screenshots Aplikasi
+
+| Tampilan Utama | Detail Produk |
+| :---: | :---: |
+| ![Screenshot 1](Screenshot/Screenshot1.png) | ![Screenshot 2](Screenshot/Screenshot2.png) |
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
